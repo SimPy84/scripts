@@ -1,0 +1,404 @@
+pci 10de 0a82 0000 0000 060000
+pci 10de 0a88 0000 0000 050000
+pci 10de 0aae 10de cb79 060100
+pci 10de 0aa4 0000 0000 050000
+pci 10de 0aa2 10de cb79 0c0500
+pci 10de 0a89 0000 0000 050000
+pci 10de 0a98 10de cb79 050000
+pci 10de 0aa3 10de cb79 0b4000
+pci 10de 0aa5 10de cb79 0c0310
+pci 10de 0aa6 10de cb79 0c0320
+pci 10de 0aa7 10de cb79 0c0310
+pci 10de 0aa9 10de cb79 0c0320
+pci 10de 0ac0 10de cb79 040300
+pci 10de 0aab 0000 0000 060401
+pci 10de 0ab0 10de cb79 020000
+pci 10de 0ab9 10de cb79 010601
+pci 10de 0ac4 0000 0000 060400
+pci 10de 0aa0 0000 0000 060400
+pci 10de 0ac6 0000 0000 060400
+pci 10de 0ac7 0000 0000 060400
+pci 10de 0ac7 0000 0000 060400
+pci 10de 0647 106b 00a9 030000
+pci 10de 0863 106b 00ac 030000
+pci 14e4 432b 106b 008d 028000
+pci 11c1 5901 11c1 5900 0c0010
+pci 10de 0863 106b 00ac 030000
+pci 10de 0ac7 10de 0000 060400
+pci 10de 0aa4 0000 0000 050000
+pci 10de 0ac0 10de cb79 040300
+pci 10de 0aa9 10de cb79 0c0320
+pci 10de 0aa0 10de 0000 060400
+pci 10de 0647 106b 00a9 030000
+pci 10de 0aa5 10de cb79 0c0310
+pci 10de 0ac7 10de 0000 060400
+pci 10de 0ac4 10de 0000 060400
+pci 10de 0a98 10de cb79 050000
+pci 10de 0aa2 10de cb79 0c0500
+pci 10de 0a82 0000 0000 060000
+pci 10de 0aae 10de cb79 060100
+pci 10de 0ac6 10de 0000 060400
+pci 10de 0aa7 10de cb79 0c0310
+pci 10de 0ab9 10de cb79 010601
+pci 11c1 5901 11c1 5900 0c0010
+pci 10de 0aa6 10de cb79 0c0320
+pci 10de 0aab 10de cb79 060401
+pci 10de 0aa3 10de cb79 0b4000
+pci 14e4 432b 106b 008d 028000
+pci 10de 0a89 0000 0000 050000
+pci 10de 0a88 0000 0000 050000
+pci 10de 0ab0 10de cb79 020000
+usb .... .... ...... ffffff ....
+usb 05ac 8213 ff0101 ...... 0208
+usb .... .... ...... ff0101 ....
+usb 1d6b 0001 090000 ...... 0417
+usb 05ac 0237 000000 ...... 0077
+usb .... .... ...... 0e0200 ....
+usb 1d6b 0002 090000 ...... 0417
+usb .... .... ...... 090000 ....
+usb .... .... ...... 030000 ....
+usb .... .... ...... fe0101 ....
+usb .... .... ...... 080650 ....
+usb .... .... ...... 090000 ....
+usb .... .... ...... 030000 ....
+usb .... .... ...... e00101 ....
+usb 1d6b 0001 090000 ...... 0417
+usb 0a5c 4500 090000 ...... 0100
+usb .... .... ...... ff0000 ....
+usb 8644 800b 000000 ...... 0100
+usb 1d6b 0002 090000 ...... 0417
+usb .... .... ...... 090000 ....
+usb 05ac 8242 000000 ...... 0016
+usb .... .... ...... 030102 ....
+usb .... .... ...... 0e0100 ....
+usb .... .... ...... 090000 ....
+usb .... .... ...... 030101 ....
+usb 05ac 8507 ef0201 ...... 0419
+usb .... .... ...... 090000 ....
+acpi PNP0C0F
+acpi PNP0C0F
+acpi APP000B
+acpi PNP0C0D
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C09
+acpi PNP0C0A
+acpi PNP0C0F
+acpi APP0001
+acpi PNP0C0F
+acpi LNXCPU
+acpi PNP0C0F
+acpi ACPI0003
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0B00
+acpi LNXSYBUS
+acpi LNXPWRBN
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0C
+acpi APP0003
+acpi PNP0C0F
+acpi ACPI0008
+acpi PNP0C0F
+acpi PNP0C02
+acpi SMBUS
+acpi ACPI0002
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi MEDIA-NOTIFY
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0200
+acpi PNP0C0F
+acpi PNP0C0F
+acpi LNXCPU
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0E
+acpi PNP0A08
+acpi PNP0C0F
+acpi PNP0C0F
+acpi LNXSYBUS
+acpi PNP0103
+acpi APP0002
+acpi PNP0C04
+acpi PNP0100
+acpi PNP0C0F
+acpi PNP0C0F
+acpi ACPI0001
+acpi PNP0C0F
+acpi LNXSYSTM
+acpi PNP0C02
+acpi SMBUS
+acpi PNP0000
+acpi MIKEY
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+acpi PNP0C0F
+pnp PNP0b00 
+pnp PNP0103 PNP0c01 
+pnp APP000b 
+pnp PNP0c02 
+pnp PNP0c02 
+i2c nvkm-0000:02:00.0-bus-0001
+i2c nvkm-0000:03:00.0-aux-0008
+i2c SMBus nForce2 adapter at 4100
+i2c nvkm-0000:03:00.0-bus-0002
+i2c 0000:02:00.0
+i2c nvkm-0000:03:00.0-aux-000b
+i2c nvkm-0000:02:00.0-bus-0005
+i2c nvkm-0000:03:00.0-aux-0009
+i2c nvkm-0000:02:00.0-bus-0000
+i2c SMBus nForce2 adapter at 4140
+i2c nvkm-0000:03:00.0-bus-0003
+i2c nvkm-0000:03:00.0-bus-0000
+i2c 0000:03:00.0
+i2c nvkm-0000:02:00.0-aux-0008
+i2c nvkm-0000:03:00.0-aux-000a
+platform "reg-dummy"
+
+
+
+
+platform "applesmc"
+platform "microcode"
+
+
+
+
+
+
+
+platform "coretemp"
+platform "alarmtimer"
+platform "regulatory"
+
+
+
+platform "NV_TCO"
+
+platform "serial8250"
+platform "simple-framebuffer"
+fs binfmt_misc
+fs cgroup
+fs cgroup2
+fs configfs
+fs debugfs
+fs devpts
+fs devtmpfs
+fs efivarfs
+fs fusectl
+fs iso9660
+fs mqueue
+fs overlay
+fs proc
+fs pstore
+fs securityfs
+fs squashfs
+fs sysfs
+fs tmpfs
+fs overlay
+module 3w_9xxx
+module 3w_sas
+module 3w_xxxx
+module BusLogic
+module DAC960
+module Module
+module aacraid
+module acpi_als
+module advansys
+module aic79xx
+module aic7xxx
+module aic94xx
+module apple_bl
+module apple_gmux
+module applesmc
+module arcmsr
+module atl1c
+module atp870u
+module b43
+module bcm5974
+module bcma
+module bluetooth
+module bnx2
+module bonding
+module btbcm
+module btintel
+module btrtl
+module btusb
+module cfg80211
+module coretemp
+module cramfs
+module crypto_engine
+module cxgb
+module cxgb3
+module cxgb4
+module dc395x
+module dca
+module dm_bio_prison
+module dm_cache
+module dm_cache_smq
+module dm_delay
+module dm_era
+module dm_log_writes
+module dm_persistent_data
+module dm_raid
+module dm_snapshot
+module dm_switch
+module dm_thin_pool
+module dm_verity
+module dmx3191d
+module drm
+module drm_kms_helper
+module e1000
+module evdev
+module f2fs
+module fb_sys_fops
+module firewire_core
+module firewire_ohci
+module forcedeth
+module gdth
+module hid_a4tech
+module hid_apple
+module hid_appleir
+module hid_belkin
+module hid_cherry
+module hid_chicony
+module hid_cypress
+module hid_ezkey
+module hid_generic
+module hid_gyration
+module hid_logitech
+module hid_logitech_dj
+module hid_microsoft
+module hid_monterey
+module hid_petalynx
+module hid_pl
+module hid_samsung
+module hid_sony
+module hid_sunplus
+module hpsa
+module i2c_algo_bit
+module i2c_nforce2
+module ib_cm
+module ib_core
+module igb
+module imm
+module industrialio
+module initio
+module input_leds
+module irqbypass
+module iw_cm
+module ixgb
+module ixgbe
+module jfs
+module joydev
+module kfifo_buf
+module kvm
+module kvm_intel
+module libsas
+module lpfc
+module mac80211
+module macvlan
+module mdio
+module media
+module megaraid
+module megaraid_sas
+module mii
+module mousedev
+module mpt3sas
+module mptbase
+module mptfc
+module mptsas
+module mptscsih
+module mptspi
+module mtd
+module mxm_wmi
+module nouveau
+module nv_tco
+module nvme_fabrics
+module nvme_fc
+module nvme_loop
+module nvme_rdma
+module nvmet
+module nvmet_fc
+module parport
+module pata_pcmcia
+module pcmcia
+module pcmcia_core
+module pcnet32
+module qemu_fw_cfg
+module qla1280
+module qla2xxx
+module r8169
+module rdma_cm
+module reed_solomon
+module rfkill
+module samsung_sxgbe
+module sbs
+module sbshc
+module scsi_transport_sas
+module sg
+module shpchp
+module sky2
+module sl811_hcd
+module snd
+module snd_hda_codec
+module snd_hda_codec_generic
+module snd_hda_codec_realtek
+module snd_hda_core
+module snd_hda_intel
+module snd_hwdep
+module snd_pcm
+module snd_timer
+module soundcore
+module ssb
+module sx8
+module sym53c8xx
+module syscopyarea
+module sysfillrect
+module sysimgblt
+module tg3
+module ttm
+module tulip
+module uvcvideo
+module videobuf2_common
+module videobuf2_memops
+module videobuf2_v4l2
+module videobuf2_vmalloc
+module videodev
+module virtio_balloon
+module virtio_console
+module virtio_crypto
+module virtio_input
+module virtio_mmio
+module virtio_net
+module virtio_rng
+module virtio_scsi
+module vmxnet3
+module vxge
+module vxlan
+module wmi
+module xfs
+module zram
+kernel Linux 4.17.11-pentoo
+arch x86_64 Intel(R) Core(TM)2 Duo CPU T9550 @ 2.66GHz x86_64
+config MODULES
+config SWAP
+SYSVIPC
